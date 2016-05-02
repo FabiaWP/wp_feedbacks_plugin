@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: FeedBacks Fabia 1
+  Plugin Name: FeedBacks Fabia
   Plugin URI:
 
  */
